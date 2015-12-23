@@ -1,7 +1,12 @@
 ---
-title = calc
+
+layout:    Calc
+title:      " Calculator"
+subtitle:   " "
+tags:
+
 ---
 
 #A network calculator
 
-This a calculator using port response
+这是一个基于post响应请求的计算器。
